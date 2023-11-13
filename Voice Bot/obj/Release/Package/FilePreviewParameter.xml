@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="LUCIO-VOICE-BOT" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\MAHE\\Google\ Drive\\Git\\Manipal\ University\ -\ Voice\ Bot\\Voice-Bot\\Voice\ Bot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\MAHE\\Google\ Drive\\Git\\Manipal\ University\ -\ Voice\ Bot\\Voice-Bot\\Voice\ Bot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

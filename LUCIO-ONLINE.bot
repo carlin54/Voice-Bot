@@ -1,0 +1,15 @@
+{
+    "name": "LUCIO-ONLINE",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "bfd633a0-6a0f-11e8-ae64-8954cfcfb912",
+            "name": "LUCIO-ONLINE",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://lucio-voice-bot.azurewebsites.net/api/message"
+        }
+    ]
+}

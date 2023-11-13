@@ -1,0 +1,15 @@
+{
+    "name": "LUCIO-OFFLINE",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "9bc04450-6a10-11e8-ae64-8954cfcfb912",
+            "name": "LUCIO-OFFLINE",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3999/api/messages"
+        }
+    ]
+}
